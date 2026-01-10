@@ -1,10 +1,10 @@
 Line 1 for firstFile
-Line 2
+Line 2 update in git_1
 Line 3
-Line 4
+Line 4 update in git_1
 Line 5
-Line 6
+Line 6 add update in git_1
 Line 7
-Line 8
+Line 8 add update in git_1
 Line 9
 Line 10
