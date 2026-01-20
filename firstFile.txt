@@ -1,6 +1,6 @@
-Line 1 for firstFile
+Line 1 for firstFile. Change for clone
 Line 2 update in git_1
-Line 3
+Line 3 change for clone
 Line 4 update in git_1
 Line 5
 Line 6 add update in git_1
